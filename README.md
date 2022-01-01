@@ -1,4 +1,8 @@
-# 365-multiplayer-projects
+# 365-multiplayer-projects_info
+
+## INFO
+    - here I will post links to the projects
+
 ## GOAL
     - every day, build one multiplayer project
 
