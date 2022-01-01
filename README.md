@@ -1,8 +1,8 @@
 # 365-multiplayer-projects
-##GOAL
+## GOAL
     - every day, build one multiplayer project
 
-##SYSTEM
+## SYSTEM
     - create a folder with incrementing number
     - build small multiplayer project
     - use random techs/softwares to grow my skillset
