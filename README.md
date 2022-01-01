@@ -2,6 +2,7 @@
 
 ## INFO
     - here I will post links to the projects
+    - start date: 2021-01-01
 
 ## GOAL
     - every day, build one multiplayer project
@@ -14,3 +15,6 @@
     - onComplete():
         - create a notes.txt files
         - populate notes file with notes on the project (date of completion, roughly how long it took, others)
+
+## PROJECTS
+1: https://github.com/machineman1357/365-MPPs_1
