@@ -17,5 +17,5 @@
         - populate notes file with notes on the project (date of completion, roughly how long it took, others)
 
 ## PROJECTS
-1: https://github.com/machineman1357/365-MPPs_1 
+1: https://github.com/machineman1357/365-MPPs_1\
 2: https://github.com/machineman1357/365-MPPs_2
