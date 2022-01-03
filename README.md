@@ -5,7 +5,7 @@
     - start date: 2022-01-01
 
 ## GOAL
-  - every day, build one multiplayer project
+    - every day, build one multiplayer project
 
 ## SYSTEM
     - create a folder with incrementing number
