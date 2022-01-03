@@ -12,6 +12,15 @@
     - build small multiplayer project
     - use random techs/softwares to grow my skillset
         - linkedin and other job posting sites can be used to source techs/softwares to integrate (ex.: Bootstrap, Material UI)
+        - possible techs:
+            - React
+            - Redux
+            - Bootstrap
+            - TypeScript
+            - Node JS
+            - Socket IO
+            - python
+            - Phaser
     - onComplete():
         - create a notes.txt files
         - populate notes file with notes on the project (date of completion, roughly how long it took, main tech stack, others)
