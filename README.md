@@ -2,7 +2,7 @@
 
 ## INFO
     - here I will post links to the projects
-    - start date: 2021-01-01
+    - start date: 2022-01-01
 
 ## GOAL
     - every day, build one multiplayer project
@@ -26,5 +26,5 @@
         - populate notes file with notes on the project (date of completion, roughly how long it took, main tech stack, others)
 
 ## PROJECTS
-1: https://github.com/machineman1357/365-MPPs_1<br>
-2: https://github.com/machineman1357/365-MPPs_2
+1_2022-01-01_Space-Shooter: https://github.com/machineman1357/365-MPPs_1<br>
+2_2022-01-02: https://github.com/machineman1357/365-MPPs_2
