@@ -27,4 +27,4 @@
 
 ## PROJECTS
 1_2022-01-01_Space-Shooter: https://github.com/machineman1357/365-MPPs_1<br>
-2_2022-01-02: https://github.com/machineman1357/365-MPPs_2
+2_2022-01-02_Amongus-Task: https://github.com/machineman1357/365-MPPs_2
