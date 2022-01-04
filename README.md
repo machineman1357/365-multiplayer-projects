@@ -21,6 +21,7 @@
             - Socket IO
             - python
             - Phaser
+            - Colyseus
     - onComplete():
         - create a notes.txt files
         - populate notes file with notes on the project (date of completion, roughly how long it took, main tech stack, others)
