@@ -22,6 +22,10 @@
             - python
             - Phaser
             - Colyseus
+        - possbile concepts:
+            - tick rates
+                - Being able to adjust tick rate in realtime would be super useful
+                - Every AAA multiplayer game has different rates, and some work better than others depending on the genre
     - onComplete():
         - create a notes.txt files
         - populate notes file with notes on the project (date of completion, roughly how long it took, main tech stack, others)
