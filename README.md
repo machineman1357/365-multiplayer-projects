@@ -9,10 +9,9 @@
 
 ## SYSTEM
     - create a folder with incrementing number
-    - build small multiplayer project
-    - use random techs/softwares to grow my skillset
+    - build small multiplayer project using at least 1 tech and 1 concept:
         - linkedin and other job posting sites can be used to source techs/softwares to integrate (ex.: Bootstrap, Material UI)
-        - possible techs:
+        - techs:
             - React
             - Redux
             - Bootstrap
@@ -22,13 +21,20 @@
             - python
             - Phaser
             - Colyseus
-        - possbile concepts:
+            - Bootstrap
+            - Material UI
+            - uWebSocketsJS
+        - concepts:
             - tick rates
                 - Being able to adjust tick rate in realtime would be super useful
                 - Every AAA multiplayer game has different rates, and some work better than others depending on the genre
     - onComplete():
         - create a notes.txt files
         - populate notes file with notes on the project (date of completion, roughly how long it took, main tech stack, others)
+            - date of completion
+            - time it took
+            - main tech(s) used (ex.: most of the time, JS, CSS, and HTML are implied, therefore irrelevant to note)
+            - concept(s) used
 
 ## PROJECTS
 1_2022-01-01_Space-Shooter: https://github.com/machineman1357/365-MPPs_1<br>
