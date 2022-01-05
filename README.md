@@ -39,6 +39,9 @@
             - main tech(s) used (ex.: most of the time, JS, CSS, and HTML are implied, therefore irrelevant to note)
             - concept(s) used
 
+## INFO HAVENS
+https://www.reddit.com/r/Overwatch/comments/3u5kfg/everything_you_need_to_know_about_tick_rate/
+
 ## PROJECTS
 1_2022-01-01_Space-Shooter: https://github.com/machineman1357/365-MPPs_1<br>
 2_2022-01-02_Amongus-Task: https://github.com/machineman1357/365-MPPs_2<br>
