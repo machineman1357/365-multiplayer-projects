@@ -42,6 +42,10 @@
 https://www.reddit.com/r/Overwatch/comments/3u5kfg/everything_you_need_to_know_about_tick_rate/
 
 ## PROJECTS
+Format: dayNumber_yyyy-mm-dd_project-name: project link
+Note: some projects I have spent multiple days on because they house multiple networking concepts.
 1_2022-01-01_Space-Shooter: https://github.com/machineman1357/365-MPPs_1<br>
 2_2022-01-02_Amongus-Task: https://github.com/machineman1357/365-MPPs_2<br>
-3_2022-01-03_Client-Side-Prediction: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/master
+3_2022-01-03_Client-Side-Prediction: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/master<br>
+4_2022-01-04_Colyseus-Tick-Rates: https://github.com/machineman1357/365-MPPs_4_Colyseus_Tick-Rates<br>
+5_2022-01-05_Client-Side-Prediction_naive-interpolation: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/naive-interpolation<br>
