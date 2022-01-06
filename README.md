@@ -39,7 +39,8 @@
             - concept(s) used
 
 ## INFO HAVENS
-https://www.reddit.com/r/Overwatch/comments/3u5kfg/everything_you_need_to_know_about_tick_rate/
+https://www.reddit.com/r/Overwatch/comments/3u5kfg/everything_you_need_to_know_about_tick_rate/<br>
+https://web.archive.org/web/20170606030837/http://gafferongames.com/game-physics/
 
 ## PROJECTS
 Format: dayNumber_yyyy-mm-dd_project-name: project link<br>
