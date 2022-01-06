@@ -32,8 +32,7 @@
             - delay to process actions (simulation on oter client happens 1 second later)
             - client-side prediction
     - onComplete():
-        - create a notes.txt files
-        - populate notes file with notes on the project (date of completion, roughly how long it took, main tech stack, others)
+        - populate readme or a notes.txt file with notes on the project (date of completion, roughly how long it took, main tech stack, others)
             - date of completion
             - time it took
             - main tech(s) used (ex.: most of the time, JS, CSS, and HTML are implied, therefore irrelevant to note)
