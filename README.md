@@ -51,3 +51,5 @@ Note: some projects I have spent multiple days on because they house multiple ne
 4_2022-01-04_Colyseus-Tick-Rates: https://github.com/machineman1357/365-MPPs_4_Colyseus_Tick-Rates<br>
 5_2022-01-05_Client-Side-Prediction_naive-interpolation: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/naive-interpolation<br>
 6_2022-01-06_Client-Side-Prediction_Variable-Packet-Send-Rate: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/variable-packet-send-rates
+<br>
+7_2022-01-07_Client-Side-Prediction_RTT: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/rtt
