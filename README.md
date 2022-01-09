@@ -43,7 +43,7 @@ https://www.reddit.com/r/Overwatch/comments/3u5kfg/everything_you_need_to_know_a
 https://web.archive.org/web/20170607194023/http://gafferongames.com/
 
 ## PROJECTS
-Format: dayNumber_yyyy-mm-dd_project-name_branch?: project link<br>
+Format: dayNumber_yyyy-mm-dd_project-name_branch?: project/branch link<br>
 Note: some projects I have spent multiple days on because they house multiple networking concepts.<br>
 1_2022-01-01_Space-Shooter: https://github.com/machineman1357/365-MPPs_1<br>
 2_2022-01-02_Amongus-Task: https://github.com/machineman1357/365-MPPs_2<br>
