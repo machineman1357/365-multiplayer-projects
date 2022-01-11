@@ -54,4 +54,5 @@ Note: some projects I have spent multiple days on because they house multiple ne
 <br>
 7_2022-01-07_Client-Side-Prediction_RTT: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/rtt<br>
 8_2022-01-08_Client-Side-Prediction_Prediction: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/prediction<br>
-9_2022-01-09_Client-Side-Prediction_Prediction: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/prediction
+9_2022-01-09_Client-Side-Prediction_Prediction: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/prediction<br>
+10_2022-01-10_Glitch-MP-Tutorial: https://medium.com/bluecadet/just-enough-multiplayer-a-simple-start-for-prototyping-realtime-multi-user-spaces-with-socket-io-1fd260ef3e54
