@@ -57,3 +57,4 @@ Note: some projects I have spent multiple days on because they house multiple ne
 9_2022-01-09_Client-Side-Prediction_Prediction: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/prediction<br>
 10_2022-01-10_Glitch-MP-Tutorial: https://medium.com/bluecadet/just-enough-multiplayer-a-simple-start-for-prototyping-realtime-multi-user-spaces-with-socket-io-1fd260ef3e54<br>
 11_2022-01-11_Glitch-Chat-App: https://exciting-toothsome-wool.glitch.me
+12_2022-01-12_Glitch-Chat-App_raycast-client-prediction-progress: https://exciting-toothsome-wool.glitch.me
