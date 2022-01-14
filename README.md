@@ -50,12 +50,12 @@ Note: some projects I have spent multiple days on because they house multiple ne
 3_2022-01-03_Client-Side-Prediction: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/master<br>
 4_2022-01-04_Colyseus-Tick-Rates: https://github.com/machineman1357/365-MPPs_4_Colyseus_Tick-Rates<br>
 5_2022-01-05_Client-Side-Prediction_naive-interpolation: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/naive-interpolation<br>
-6_2022-01-06_Client-Side-Prediction_Variable-Packet-Send-Rate: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/variable-packet-send-rates
-<br>
+6_2022-01-06_Client-Side-Prediction_Variable-Packet-Send-Rate: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/variable-packet-send-rates<br>
 7_2022-01-07_Client-Side-Prediction_RTT: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/rtt<br>
 8_2022-01-08_Client-Side-Prediction_Prediction: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/prediction<br>
 9_2022-01-09_Client-Side-Prediction_Prediction: https://github.com/machineman1357/365-MPPs_3_Client-Side-Prediction/tree/prediction<br>
 10_2022-01-10_Glitch-MP-Tutorial: https://medium.com/bluecadet/just-enough-multiplayer-a-simple-start-for-prototyping-realtime-multi-user-spaces-with-socket-io-1fd260ef3e54<br>
 11_2022-01-11_Glitch-Chat-App: https://exciting-toothsome-wool.glitch.me<br>
 12_2022-01-12_Glitch-Chat-App_raycast-client-prediction-progress: https://exciting-toothsome-wool.glitch.me<br>
-13_2022-01-13_Godot-MP-Tutorial: https://www.youtube.com/watch?v=lnFN6YabFKg&list=PLZ-54sd-DMAKU8Neo5KsVmq8KtoDkfi4s&index=1
+13_2022-01-13_Godot-MP-Tutorial: https://www.youtube.com/watch?v=lnFN6YabFKg&list=PLZ-54sd-DMAKU8Neo5KsVmq8KtoDkfi4s&index=1<br>
+14_2022-01-14_Godot-MP-Tutorial: https://youtu.be/lnFN6YabFKg?t=1467
