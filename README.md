@@ -59,5 +59,6 @@ Note: some projects I have spent multiple days on because they house multiple ne
 12_2022-01-12_Glitch-Chat-App_raycast-client-prediction-progress: https://exciting-toothsome-wool.glitch.me<br>
 13_2022-01-13_Godot-MP-Tutorial: https://www.youtube.com/watch?v=lnFN6YabFKg&list=PLZ-54sd-DMAKU8Neo5KsVmq8KtoDkfi4s&index=1<br>
 14_2022-01-14_Godot-MP-Tutorial: https://youtu.be/lnFN6YabFKg?t=1467<br>
-15_2022-01-15_Godot-MP-Tutorial: https://youtu.be/lnFN6YabFKg
-16_2022-01-16_Player-Syncing: https://youtu.be/HGu2hUJrAvQ?t=527
+15_2022-01-15_Godot-MP-Tutorial: https://youtu.be/lnFN6YabFKg<br>
+16_2022-01-16_Player-Syncing: https://youtu.be/HGu2hUJrAvQ?t=527<br>
+17_2022-01-17_Player-SYncing: https://youtu.be/HGu2hUJrAvQ?t=605
