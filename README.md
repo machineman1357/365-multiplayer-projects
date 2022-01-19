@@ -61,4 +61,5 @@ Note: some projects I have spent multiple days on because they house multiple ne
 14_2022-01-14_Godot-MP-Tutorial: https://youtu.be/lnFN6YabFKg?t=1467<br>
 15_2022-01-15_Godot-MP-Tutorial: https://youtu.be/lnFN6YabFKg<br>
 16_2022-01-16_Player-Syncing: https://youtu.be/HGu2hUJrAvQ?t=527<br>
-17_2022-01-17_Player-SYncing: https://youtu.be/HGu2hUJrAvQ?t=605
+17_2022-01-17_Player-Syncing: https://youtu.be/HGu2hUJrAvQ?t=605<br>
+18_2022-01-18_Player-Syncing: https://www.youtube.com/watch?v=HGu2hUJrAvQ
