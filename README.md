@@ -62,4 +62,5 @@ Note: some projects I have spent multiple days on because they house multiple ne
 15_2022-01-15_Godot-MP-Tutorial: https://youtu.be/lnFN6YabFKg<br>
 16_2022-01-16_Player-Syncing: https://youtu.be/HGu2hUJrAvQ?t=527<br>
 17_2022-01-17_Player-Syncing: https://youtu.be/HGu2hUJrAvQ?t=605<br>
-18_2022-01-18_Player-Syncing: https://www.youtube.com/watch?v=HGu2hUJrAvQ
+18_2022-01-18_Player-Syncing: https://www.youtube.com/watch?v=HGu2hUJrAvQ<br>
+19_2022-01-19_Simulated-Latency: https://github.com/machineman1357/365-MPPs_6_Simulated-Latency
