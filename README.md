@@ -64,4 +64,5 @@ Note: some projects I have spent multiple days on because they house multiple ne
 16_2022-01-16_Player-Syncing: https://youtu.be/HGu2hUJrAvQ?t=527<br>
 17_2022-01-17_Player-Syncing: https://youtu.be/HGu2hUJrAvQ?t=605<br>
 18_2022-01-18_Player-Syncing: https://www.youtube.com/watch?v=HGu2hUJrAvQ<br>
-19_2022-01-19_Simulated-Latency: https://github.com/machineman1357/365-MPPs_6_Simulated-Latency
+19_2022-01-19_Simulated-Latency: https://github.com/machineman1357/365-MPPs_6_Simulated-Latency<br>
+20_2022-01-20_Study: https://codepen.io/johncipponeri/pen/Kvaggx?editors=1010 & https://medium.com/@kyle_martin/load-testing-socket-io-web-applications-and-infrastructure-3e96011898e0
