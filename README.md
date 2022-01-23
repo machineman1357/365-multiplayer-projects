@@ -67,4 +67,4 @@ Note: some projects I have spent multiple days on because they house multiple ne
 19_2022-01-19_Simulated-Latency: https://github.com/machineman1357/365-MPPs_6_Simulated-Latency<br>
 20_2022-01-20_Study: https://codepen.io/johncipponeri/pen/Kvaggx?editors=1010 & https://medium.com/@kyle_martin/load-testing-socket-io-web-applications-and-infrastructure-3e96011898e0<br>
 21_2022-01-21_FAIL<br>
-21_2022-01-22_FAIL<br>
+22_2022-01-22_FAIL<br>
